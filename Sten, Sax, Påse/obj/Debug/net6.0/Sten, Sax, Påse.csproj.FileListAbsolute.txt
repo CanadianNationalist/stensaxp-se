@@ -1,0 +1,15 @@
+C:\PRRPRR01\Sten, Sax, Påse\bin\Debug\net6.0\Sten, Sax, Påse.exe
+C:\PRRPRR01\Sten, Sax, Påse\bin\Debug\net6.0\Sten, Sax, Påse.deps.json
+C:\PRRPRR01\Sten, Sax, Påse\bin\Debug\net6.0\Sten, Sax, Påse.runtimeconfig.json
+C:\PRRPRR01\Sten, Sax, Påse\bin\Debug\net6.0\Sten, Sax, Påse.dll
+C:\PRRPRR01\Sten, Sax, Påse\bin\Debug\net6.0\Sten, Sax, Påse.pdb
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\Sten, Sax, Påse.csproj.AssemblyReference.cache
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\Sten, Sax, Påse.GeneratedMSBuildEditorConfig.editorconfig
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\Sten, Sax, Påse.AssemblyInfoInputs.cache
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\Sten, Sax, Påse.AssemblyInfo.cs
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\Sten, Sax, Påse.csproj.CoreCompileInputs.cache
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\Sten, Sax, Påse.dll
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\refint\Sten, Sax, Påse.dll
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\Sten, Sax, Påse.pdb
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\Sten, Sax, Påse.genruntimeconfig.cache
+C:\PRRPRR01\Sten, Sax, Påse\obj\Debug\net6.0\ref\Sten, Sax, Påse.dll
